@@ -1,0 +1,8 @@
+{
+	"repositories": [
+        {
+            "type": "path",
+            "url": "/home/vagrant/develop/laravel-code-restructure/carro-core/"
+        }
+    ]
+}
